@@ -10,5 +10,5 @@ Share your ideas with me, I'm usually bored.
 
 [youtube]: https://www.youtube.com/user/shadowscion/videos
 [wsprops]: https://steamcommunity.com/sharedfiles/filedetails/?id=173482196
-[wp2m]: https://steamcommunity.com/sharedfiles/filedetails/?id=737640184
+[wp2m]: https://steamcommunity.com/sharedfiles/filedetails/?id=2458909924
 [wttc]: https://steamcommunity.com/sharedfiles/filedetails/?id=737640184
