@@ -1,16 +1,13 @@
-### Hi there 👋
+## I'm shadowscion and I make Garry's Mod addons
 
-<!--
-**shadowscion/shadowscion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZIRcWKcHDhISLC18zgsC9w?color=orange&label=youtube&logo=youtube&style=for-the-badge)][youtube]\
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/173482196?color=orange&label=steam%20-%20sprops&logo=steam&style=for-the-badge)][wsprops]\
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2458909924?color=orange&label=steam%20-%20Prop2Mesh&logo=steam&style=for-the-badge)][wp2m]\
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/737640184?color=orange&label=steam%20-%20Tank%20Track%20Tool&logo=steam&style=for-the-badge)][wttc]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[youtube]: https://www.youtube.com/user/shadowscion/videos
+[wsprops]: https://steamcommunity.com/sharedfiles/filedetails/?id=173482196
+[wp2m]: https://steamcommunity.com/sharedfiles/filedetails/?id=737640184
+[wttc]: https://steamcommunity.com/sharedfiles/filedetails/?id=737640184
