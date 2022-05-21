@@ -1,15 +1,22 @@
-## about
+## About
 I'm shadowscion and I make Garry's Mod addons.
 Share your ideas with me, I'm usually bored.
 
-## links
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZIRcWKcHDhISLC18zgsC9w?color=orange&label=youtube&logo=youtube&style=for-the-badge)][youtube]\
+## Links
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZIRcWKcHDhISLC18zgsC9w?label=youtube&style=social)][youtube]\
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/173482196?color=orange&label=steam%20-%20sprops&logo=steam&style=for-the-badge)][wsprops]\
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2458909924?color=orange&label=steam%20-%20Prop2Mesh&logo=steam&style=for-the-badge)][wp2m]\
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/737640184?color=orange&label=steam%20-%20Tank%20Track%20Tool&logo=steam&style=for-the-badge)][wttc]
 
-## activity
-[![GITHUB ACTIVITY](https://github-readme-stats.vercel.app/api?username=shadowscion&include_all_commits=true&custom_title=GITHUB%20ACTIVITY&disable_animations=true&show_icons=true&icon_color=fe7d37&title_color=fe7d37&&border_color=000000&border_radius=0&bg_color=555555&text_color=ffffff)](https://github.com/shadowscion)
+## Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowscion&repo=sprops)](https://github.com/shadowscion/sprops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowscion&repo=prop2mesh)](https://github.com/shadowscion/prop2mesh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowscion&repo=tanktracktool)](https://github.com/shadowscion/tanktracktool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowscion&repo=primitive)](https://github.com/shadowscion/primitive)
+
+## Activity
+[![GITHUB ACTIVITY](https://github-readme-stats.vercel.app/api?username=shadowscion&include_all_commits=true&custom_title=GITHUB%20ACTIVITY)](https://github.com/shadowscion)
+
 
 [youtube]: https://www.youtube.com/user/shadowscion/videos
 [wsprops]: https://steamcommunity.com/sharedfiles/filedetails/?id=173482196
