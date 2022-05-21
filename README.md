@@ -7,9 +7,7 @@ Give me your ideas, I'm always bored
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2458909924?color=orange&label=steam%20-%20Prop2Mesh&logo=steam&style=for-the-badge)][wp2m]\
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/737640184?color=orange&label=steam%20-%20Tank%20Track%20Tool&logo=steam&style=for-the-badge)][wttc]
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=shadowscion&include_all_commits=true&custom_title=GitHub%20Activity&disable_animations=true&show_icons=true&border_radius=0)
-
-
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=shadowscion&include_all_commits=true&custom_title=GitHub%20Activity&disable_animations=true&show_icons=true&border_radius=0)](https://github.com/shadowscion)
 
 [youtube]: https://www.youtube.com/user/shadowscion/videos
 [wsprops]: https://steamcommunity.com/sharedfiles/filedetails/?id=173482196
