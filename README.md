@@ -1,5 +1,5 @@
 ## About
-I have since transfered most of my addons to the [ACF-Team](https://github.com/ACF-Team) org.
+I have since transferred most of my addons to the [ACF-Team](https://github.com/ACF-Team) org.
 
 https://github.com/ACF-Team/Prop2Mesh
 
